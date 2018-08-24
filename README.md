@@ -10,7 +10,7 @@ As always, make sure to sketch out your domain and think about the single source
 - Variable Scope ( Class, Instance, Local )
 - Object Relationships
 - Arrays and Array Methods
-- Class Methods
+- Class Methods 
 
 ## Notes
 
